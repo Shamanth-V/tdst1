@@ -1,0 +1,6 @@
+{
+  "prompt": "Create a realistic physical scene inside a tailor workshop. A tailor is fitting a suit onto a person standing in an awkward, unnatural pose. The suit is extremely over-tailored — it perfectly matches every wrinkle, bend, and distortion of the person's posture, hugging every tiny detail. Because of this, the suit looks unnatural, overly complex, and impractical, with strange folds and exaggerated contours. The environment should be realistic: fabrics, measuring tools, workshop lighting. No text, no numbers, no diagrams, no symbols. The image should feel physically real but subtly wrong — like something is too perfectly fitted to a single specific case.",
+  "model": "Nanobanana",
+  "concept": "overfitting",
+  "metaphor": "A suit perfectly tailored to an unnatural pose fits that exact case but becomes impractical in normal conditions, mirroring overfitting’s failure to generalize."
+}
