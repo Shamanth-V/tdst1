@@ -1,0 +1,7 @@
+{
+  "prompt": "Create a single powerful conceptual image. Show a human figure in side profile calmly breathing. The outside air looks clean and empty, but inside the chest the lungs are filled with dense dark smoke and ash. The lungs should visually resemble a polluted city or burnt forest, blending organic lung structure with environmental destruction. Make the smoke feel heavy, suffocating, and inescapable. No text, no numbers, no charts, no labels. Style: minimalist but emotionally intense, slightly surreal realism, soft lighting with strong contrast inside the lungs. The image should communicate invisible danger and quiet harm, making the viewer feel discomfort and realization.",
+  "model": "Nanobanana",
+  "dataset_name": "Global Burden of Disease – Air Pollution Mortality Data",
+  "dataset_url": "https://www.stateofglobalair.org/data",
+  "insight": "Air pollution causes widespread death despite being invisible, making it a silent and pervasive threat."
+}
