@@ -1,0 +1,6 @@
+{
+  "prompt": "Create a single wide diptych image divided into two panels (left and right) within one frame. LEFT PANEL: Show two completely separate sloped hills side by side. On each hill, place small simple human silhouettes in two colors: blue and red. On BOTH hills, blue figures must be slightly higher up the slope than red figures, clearly leading. RIGHT PANEL: Show one single continuous slope where all figures from both hills are now combined together. In this merged slope, the red figures must now appear overall higher than the blue figures, reversing the outcome. IMPORTANT: Keep figure sizes consistent. Use perspective and slope angle carefully to create the reversal. Make the spatial illusion clear and obvious. No text, no numbers, no symbols. Minimalist, clean, slightly surreal style. The image should feel logically impossible but visually convincing.",
+  "model": "Nanobanana",
+  "paradox": "Simpson's Paradox",
+  "visual_logic": "Two groups lead locally on separate slopes but lose when combined into a single slope, reversing the outcome visually."
+}
